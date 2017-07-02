@@ -1,0 +1,7 @@
+https://github.com/udacity/CarND-Extended-Kalman-Filter-Project/
+
+https://github.com/hortovanyi/CarND-Extended-Kalman-Filter-Project/
+
+https://github.com/paul-o-alto/CarND-Extended-Kalman-Filter-Project/
+
+https://github.com/NikolasEnt/Extended-Kalman-Filter/
