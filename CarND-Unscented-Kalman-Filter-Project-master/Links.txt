@@ -1,0 +1,11 @@
+https://github.com/Valtgun/CarND-Unscented-Kalman-Filter-Project
+
+https://github.com/ctsuu/CarND-Unscented-Kalman-Filter-Project
+
+https://github.com/NikolasEnt/Unscented-Kalman-Filter
+
+https://github.com/paul-o-alto/CarND-Unscented-Kalman-Filter-Project
+
+https://github.com/hortovanyi/CarND-Extended-Kalman-Filter-Project
+
+https://github.com/thomasantony/CarND-P07-UKF/tree/793654d174a66cd133b788062c40cdcd58b92656
