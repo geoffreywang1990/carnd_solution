@@ -3,6 +3,7 @@
 
 # build files
 build/
+CMakeLists.txt.user
 
 # simulator
 term2_sim_linux/
